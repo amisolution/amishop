@@ -3,10 +3,14 @@
   "version": "0.1.0b",
   "description": "AmiShop Front-End",
   "keywords": [
-    "Amis",
+    "amis",
+    "shopping",
+    "store",
+    "token",
+    "amishop",
     "ethereum"
   ],
-  "author": "Dether Team <hello@dether.io>",
+  "author": "amisolution<some-email>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

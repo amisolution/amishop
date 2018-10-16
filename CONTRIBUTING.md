@@ -2,7 +2,7 @@
 
 I'm really glad you're reading this, because we need volunteer developers to help this project come to fruition.
 
-If you haven't already, come find us in Slack ([Dether Slack](https://dether.slack.com). We want you working on things you're excited about.
+If you haven't already, come find us in Slack ([amisolution Slack](https://amisolution.slack.com). We want you working on things you're excited about.
 
 Here are some important resources:
 
@@ -21,7 +21,7 @@ We are testing the smart contracts with Javascript in async/await style, and the
 
 ## Submitting changes
 
-Please send a [GitHub Pull Request to Dether](https://github.com/ami-solution/amishop/pulls) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). When you send a pull request, we will love you forever if you include tests. We can always use more test coverage. Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
+Please send a [GitHub Pull Request to ami-solution](https://github.com/ami-solution/amishop/pulls) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)). When you send a pull request, we will love you forever if you include tests. We can always use more test coverage. Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
 
 ### Commit guidelines
 
