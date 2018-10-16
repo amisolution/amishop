@@ -15,9 +15,7 @@ storiesOf('03 - Components', module)
         title: 'Select Input',
         sectionFn: () => (
           <Message theme="error">
-            Hello je suis une erreur. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Consequuntur quaerat, doloremque neque voluptas ut laudantium similique nulla consequatur
-            nesciunt labore enim, at numquam dolor fugit maxime commodi facere odio cupiditate.
+            Hi AmiShop here; this is an error Message. Lieber Amicorum..
           </Message>
         ),
         options: {
@@ -28,9 +26,7 @@ storiesOf('03 - Components', module)
         title: 'Select Input',
         sectionFn: () => (
           <Message theme="info">
-            Hello je suis un Message. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Consequuntur quaerat, doloremque neque voluptas ut laudantium similique nulla consequatur
-            nesciunt labore enim, at numquam dolor fugit maxime commodi facere odio cupiditate.
+            Hi AmiShop here; this is an informational Message. Lieber Amicorum..
           </Message>
         ),
         options: {
@@ -41,9 +37,7 @@ storiesOf('03 - Components', module)
         title: 'Select Input',
         sectionFn: () => (
           <Message withIcon={false} >
-            Hello je suis un Message sans icone. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Consequuntur quaerat, doloremque neque voluptas ut laudantium similique nulla consequatur
-            nesciunt labore enim, at numquam dolor fugit maxime commodi facere odio cupiditate.
+            Hi AmiShop here; this is a Message without icon. Lieber Amicorum..
           </Message>
         ),
         options: {

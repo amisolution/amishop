@@ -17,7 +17,7 @@ const Footer = ({ toggleTermsModal }) => (
     <FooterText>
       <div>
         <div>
-          <b>Dether</b> {tr('footer.all_right_reserved')}
+          <b>Amis</b> {tr('footer.all_right_reserved')}
         </div>
         <div>
           <SmallLink link="https://medium.com/@amis_erc20">

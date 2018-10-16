@@ -12,9 +12,7 @@ describe('Component Message', () => {
   const component = renderer
     .create(
       <Message theme="info">
-        Hello je suis un Message. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Consequuntur quaerat, doloremque neque voluptas ut laudantium similique nulla consequatur
-        nesciunt labore enim, at numquam dolor fugit maxime commodi facere odio cupiditate.
+        Hello AmiShop; this is a test Message. Lieber Amicorum...
       </Message>
     );
   const tree = component.toJSON();
