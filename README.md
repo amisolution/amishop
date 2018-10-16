@@ -14,11 +14,11 @@
 What is AmiShop ?
 
 # Amishop
-AmiShop is an experimental UI which interacts with Etherdelta decentralized exchange contract.
+AmiShop is an experimental UI which interacts with Amis and other designated smart contracts.
 Amishop is part of the ERC20-AMIS Token Future, options and crypto derivatives Project. Amishop is a web front end designed to interact with Amis project smart contracts powered by the ethereum blockchain.
 
-* Live version is available here:
-  * [ndering-laugh.glitch.me](ndering-laugh.glitch.me)
+* Live version [Kovan] is available here :
+  * [https://wandering-laugh.glitch.me](https://wandering-laugh.glitch.me)
   
 ## Table of Contents
 
