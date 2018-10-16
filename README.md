@@ -62,7 +62,7 @@ yarn run publish:esdoc
 
 * [axios](https://github.com/axios/axios)
 * [classnames](https://github.com/JedWatson/classnames)
-* [dethercontract](https://github.com/dethertech/detherContracts)
+* [AmiShop-contracts](https://github.com/ami-solution/amishop-contracts)
 * [google-map-react](https://github.com/istarkov/google-map-react)
 * [points-cluster](https://github.com/mapbox/supercluster)
 * [prop-types](https://github.com/facebook/prop-types)
@@ -83,11 +83,11 @@ yarn run publish:esdoc
 
 ## Bugs
 
-When you find issues, please report them:
+When you find issues and bugs, please report them:
 
 * web: [https://github.com/ami-solution/amishop/issues](https://github.com/ami-solution/amishop/issues)
 
-## Donation
+## Donations
 
 * [Ethereum Foundation](https://ethereum.org/donate)
 * [Etherscan](https://etherscan.io/address/0x71c7656ec7ab88b098defb751b7401b5f6d8976f)
