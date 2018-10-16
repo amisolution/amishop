@@ -8,7 +8,7 @@ exports[`Component Message should be render without crash 1`] = `
     className="sc-bwzfXH gKlmNv"
   />
   <div>
-    Hello je suis un Message. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quaerat, doloremque neque voluptas ut laudantium similique nulla consequatur nesciunt labore enim, at numquam dolor fugit maxime commodi facere odio cupiditate.
+    Hello AmiShop here; this is a test Message. Lieber Amicorum..
   </div>
 </div>
 `;

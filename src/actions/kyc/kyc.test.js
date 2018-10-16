@@ -18,7 +18,7 @@ describe('Kyc actions', () => {
   it('should create an action to send sms', () => {
     const payload = {
       phoneNumber: '04303403434',
-      ethAddress: '0xa31D8Ed467866ebe78243E18390209D67E224D42',
+      ethAddress: '0x719b8be8e2c3f07575d41a2580011db702029e5b',
       onError: () => {}
     }
 

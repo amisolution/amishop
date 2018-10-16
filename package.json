@@ -1,21 +1,21 @@
 {
-  "name": "dether.shop",
-  "version": "0.1.1",
-  "description": "Dether.shop Front-End",
+  "name": "AmiShop",
+  "version": "0.1.0b",
+  "description": "AmiShop Front-End",
   "keywords": [
-    "dether",
+    "Amis",
     "ethereum"
   ],
   "author": "Dether Team <hello@dether.io>",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dethertech/dether.shop.git"
+    "url": "git+https://github.com/ami-solution/amishop.git"
   },
   "bugs": {
-    "url": "https://github.com/dethertech/dether.shop/issues"
+    "url": "https://github.com/ami-solution/amishop/issues"
   },
-  "homepage": "https://shop.dether.io",
+  "homepage": "https://wandering-laugh.glitch.me/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && echo '/* /index.html 200' > build/_redirects",
