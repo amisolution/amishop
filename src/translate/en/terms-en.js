@@ -49,7 +49,7 @@ Shops||||\
 \
 On the AmiShop Platform, "Shops" are establishments which are interested in accepting payment for the goods/services by way of Cryptographic Tokens and/or establishments which are interested in exchanging Cryptographic Tokens for fiat currency in cash.||||\
 \
-Shops can elect to appear on the AmiShop Map by staking AmiShop Tokens ("DTH") and Ether Tokens ("ETH") from their Wallets. Once listed on the AmiShop Map, AmiShop Users (as defined herein below) will be able to locate Shops in order to enter into Transactions (as defined herein below).||||\
+Shops can elect to appear on the AmiShop Map by staking AmiShop Tokens ("AMIS") and Ether Tokens ("ETH") from their Wallets. Once listed on the AmiShop Map, AmiShop Users (as defined herein below) will be able to locate Shops in order to enter into Transactions (as defined herein below).||||\
 \
 Upon being listed on the AmiShop Map the following information will be made available to AmiShop Users:||||\
 \
@@ -93,7 +93,7 @@ You are only allowed to use the AmiShop Platform if you are eligible in accordan
 \
 If your AmiShop Shop Account is deleted AmiShop reserves the right to burn and forever remove||||\
 \
-from circulation any and all the DTH which have been staked in order to appear on the AmiShop Map.||||\
+from circulation any and all the AMIS which have been staked in order to appear on the AmiShop Map.||||\
 \
 Interactions with other users||||\
 \
@@ -161,7 +161,7 @@ you will comply with any applicable tax obligations in your jurisdiction arising
 \
 Suspension or Termination||||\
 \
-We reserve the right to suspend or terminate your AmiShop Shop Account at any time for any reason without prior notice or liability. We also reserve the right to change, suspend, or discontinue all or any part of the AmiShop Platform any time without prior notice or liability. Should your AmiShop Shop Account be suspended or terminated you may lose any DTH staked.||||\
+We reserve the right to suspend or terminate your AmiShop Shop Account at any time for any reason without prior notice or liability. We also reserve the right to change, suspend, or discontinue all or any part of the AmiShop Platform any time without prior notice or liability. Should your AmiShop Shop Account be suspended or terminated you may lose any AMIS staked.||||\
 \
 Risks||||\
 \
@@ -179,11 +179,11 @@ Risk of uninsured losses: unlike bank accounts or accounts at some other financi
 \
 Risks arising from taxation: the tax characterization of cryptographic tokens is uncertain. You must seek your own tax advice in connection with acquisition, storage, transfer and use of any cryptographic tokens, which may result in adverse tax consequences to you, including, without limitation, withholding taxes, transfer taxes, value added taxes, income taxes and similar taxes, levies, duties or other charges and tax reporting requirements.||||\
 \
-Risk of dissolution of the Company or network: it is possible that, due to any number of reasons, including, but not limited to, an unfavourable fluctuation in the value of ETH (or other cryptographic and fiat currencies), decrease in DTH utility due to negative adoption of the AmiShop Platform, the failure of commercial relationships, or intellectual property ownership challenges, the AmiShop Platform may no longer be viable to operate and AmiShop may dissolve.||||\
+Risk of dissolution of the Company or network: it is possible that, due to any number of reasons, including, but not limited to, an unfavourable fluctuation in the value of ETH (or other cryptographic and fiat currencies), decrease in utility due to negative adoption of the AmiShop Platform, the failure of commercial relationships, or intellectual property ownership challenges, the AmiShop Platform may no longer be viable to operate and AmiShop may dissolve.||||\
 \
-Risks arising from lack of governance rights: because DTH confer no governance rights of any kind with respect to the AmiShop Platform or AmiShop, all decisions involving the AmiShop Platform or AmiShop will be made by AmiShop acting in its sole and absolute discretion, including, but not limited to, decisions to discontinue the AmiShop Platform, to create and issue more DTH, or to sell or liquidate AmiShop. These decisions could adversely affect the AmiShop Platform and/or DTH you hold.||||\
+Risks arising from lack of governance rights: because AMIS confer no governance rights of any kind with respect to the AmiShop Platform or AmiShop, all decisions involving the AmiShop Platform or AmiShop will be made by AmiShop acting in its sole and absolute discretion, including, but not limited to, decisions to discontinue the AmiShop Platform, to create and issue more AMIS, or to sell or liquidate AmiShop. These decisions could adversely affect the AmiShop Platform and/or AMIS you hold.||||\
 \
-Risks associated with the development and maintenance of the AmiShop Platform: the AmiShop Platform is still under development and may undergo significant changes over time. Moreover, we have no control over how other participants will use the AmiShop Platform, what products or services will be offered through the AmiShop Platform by third parties, or how third-party products and services will utilize DTH (if at all). This could create the risk that the AmiShop Platform, as further developed and maintained, may not meet your expectations. Furthermore, despite our good faith efforts to develop and participate in the AmiShop Platform, it is still possible that the AmiShop Platform will experience malfunctions or otherwise fail to be adequately developed or maintained, which may negatively impact the AmiShop Platform and DTH , and the potential utility of the DTH, including the utility of the DTH for obtaining services and/or offering rewards and/or being used in the manner intended.||||\
+Risks associated with the development and maintenance of the AmiShop Platform: the AmiShop Platform is still under development and may undergo significant changes over time. Moreover, we have no control over how other participants will use the AmiShop Platform, what products or services will be offered through the AmiShop Platform by third parties, or how third-party products and services will utilize AMIS (if at all). This could create the risk that the AmiShop Platform, as further developed and maintained, may not meet your expectations. Furthermore, despite our good faith efforts to develop and participate in the AmiShop Platform, it is still possible that the AmiShop Platform will experience malfunctions or otherwise fail to be adequately developed or maintained, which may negatively impact the AmiShop Platform and AMIS , and the potential utility of the AMIS, including the utility of the AMIS for obtaining services and/or offering rewards and/or being used in the manner intended.||||\
 \
 Unanticipated Risks: Cryptographic Tokens and blockchain technology are a new and untested technology. In addition to these risks, there are other risks associated with your acquisition, storage, transfer and use of any Cryptographic Tokens via your Wallet. Such risks may further materialize as unanticipated variations or combinations of these risks.||||\
 \
@@ -193,7 +193,7 @@ Risk related to the use and transfer of cryptographic tokens: blockchain operati
 \
 Intellectual Property||||\
 \
-In this clause 9, "AmiShop IP Rights" means in relation to AmiShop, the DTH, the AmiShop Platform and the AmiShop website, all: (i) patents, inventions, designs, copyright and related rights, database rights, knowhow and confidential information, trademarks and related goodwill, trade names (whether registered or unregistered), and rights to apply for registration; (ii) all other rights of a similar nature or having an equivalent effect anywhere in the world which currently exist or are recognised in the future; and (iii) all applications, extensions and renewals in relation to any such rights.||||\
+In this clause 9, "AmiShop IP Rights" means in relation to AmiShop, the AMIS, the AmiShop Platform and the AmiShop website, all: (i) patents, inventions, designs, copyright and related rights, database rights, knowhow and confidential information, trademarks and related goodwill, trade names (whether registered or unregistered), and rights to apply for registration; (ii) all other rights of a similar nature or having an equivalent effect anywhere in the world which currently exist or are recognised in the future; and (iii) all applications, extensions and renewals in relation to any such rights.||||\
 \
 Except as expressly set out in these Terms, you are not entitled, for any purpose, to any AmiShop IP Rights. We shall at all times retain ownership, including all rights, title and interests in and to the AmiShop IP Rights and you understand and accept that by using the Services pursuant to these Terms you shall not:||||\
 \
@@ -257,7 +257,7 @@ You are solely responsible for determining whether any action or transaction con
 \
 You are also solely responsible for withholding, collecting, reporting, paying, settling and/or remitting any and all taxes to the appropriate tax authorities in such jurisdiction(s) in which you may be liable to pay tax. AmiShop shall not be responsible for withholding, collecting, reporting, paying, settling and/or remitting any taxes (including, but not limited to, any income, capital gains, sales, value added or similar tax) which may arise from any action or transaction contemplated by these Terms or related to the AmiShop Platform.||||\
 \
-You agree not to hold AmiShop or any of the AmiShop Parties liable for any tax liability associated with or arising from the creation, ownership, use or liquidation of DTH or any other action or transaction related to the AmiShop Platform.||||\
+You agree not to hold AmiShop or any of the AmiShop Parties liable for any tax liability associated with or arising from the creation, ownership, use or liquidation of AMIS or any other action or transaction related to the AmiShop Platform.||||\
 \
 Data Protection||||\
 \
